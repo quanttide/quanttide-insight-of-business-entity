@@ -5,3 +5,5 @@ project:
   license: CC-BY-4.0
 site:
   template: book-theme
+  options:
+    favicon: favicon.svg
