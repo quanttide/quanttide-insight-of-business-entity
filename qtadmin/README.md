@@ -7,3 +7,5 @@
 - [先集中后分化再连接](./concentrate-diverge-connect.md)：容器演化三阶段，判断何时停止堆功能
 - [意图实现差距](./intention-gap.md)：意图与应用实现的差距分析（随实现更新）
 - [知识提炼链](./knowledge-chain.md)：从沟通语到共识，聊天记录到政策知识的完整链路
+- [复制即备份](./backup-as-archive.md)：系统复制天然是备份，备份即归档，归档即可清理
+- [显性化即可转移](./explicit-then-transfer.md)：经验显性化的过程就是组织接管的过程
