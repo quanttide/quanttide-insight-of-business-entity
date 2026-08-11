@@ -27,3 +27,9 @@
 
 - 数据源依赖 lark-cli 可用性与搜索覆盖
 - LLM 提取质量依赖提示词设计与原始数据质量
+
+## 实现现状
+
+链路已落地于 CLI（Rust）：connect 跨群搜索、acquire 提取、extract 本体（含状态承载）、summary 总结，示例（qtrecurit、qtclass）演示完整链路，产物落 `src/cli/data/`。领域层已 lib 化，可被示例与其他消费者复用。
+
+差距：Studio 无对应可视化（治理可视化空白），链路只活在命令行，未产品化。
