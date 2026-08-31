@@ -31,3 +31,19 @@
 - qtcloud 与 qtclass 风险最高，现有代码方向会持续误导后续开发，先对齐产品概念再补功能
 - qtdata 已有 STATUS 差距分析，按 roadmap 推进即可
 - 各应用细节见各域文件夹的 [intention-gap](./qtdata/intention-gap.md) 文档
+
+## 洞察分流说明
+
+本仓库部分领域洞察已分流至对应领域洞察子仓库（非 qt 开头的领域级洞察）：
+
+| 原目录 | 分流目标 |
+|--------|---------|
+| `org/` | quanttide-insight-of-organization-management |
+| `strategy/` | quanttide-insight-of-strategy-management |
+| `asset/` | quanttide-insight-of-asset-management |
+| `connect/` | quanttide-insight-of-communication-management |
+| `knowl/` | quanttide-insight-of-knowledge-engineering |
+| `business/` | quanttide-insight-of-business-development |
+| `delib/` | quanttide-insight-of-deliberation-management |
+
+本仓库保留：业务域洞察（`qtcloud/`、`qtclass/`、`qtdata/`、`qtadmin/`、`qtrecurit/`、`qtconsult/`、`qtweb/`）与本文件（意图差距全景分析）。
