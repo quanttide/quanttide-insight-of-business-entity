@@ -6,7 +6,7 @@
 
 ## 定位：整个组织就是一个实验室
 
-此前「课堂即创新实验室」（见 [classroom-as-innovation-lab.md](classroom-as-innovation-lab.md)）说的是课堂的功能——课堂是创新的载体。现在定位升级：**不另设实验室，因为整个组织就是实验室本体**。
+此前「课堂即创新实验室」（见 [qtclass/classroom-as-innovation-lab.md](../qtclass/classroom-as-innovation-lab.md)）说的是课堂的功能——课堂是创新的载体。现在定位升级：**不另设实验室，因为整个组织就是实验室本体**。
 
 四层结构，各就其位：
 
@@ -51,6 +51,11 @@
 - 公司本身被数字化改造改造着：改造自身的经验又成为对外服务的素材
 
 实验者即实验对象，研究即经营——**研究和应用之间是零距离的**。
+
+## 关联
+
+- [qtclass/industry-education-integration.md](../qtclass/industry-education-integration.md)：产教融合与两个主体——本定位的结构基础
+- history/qtclass/qtacademy-evolution.md（独立历史仓库）：六天演化叙事——本定位的实证过程
 
 ## 一句话
 
