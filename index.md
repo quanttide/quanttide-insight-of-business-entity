@@ -20,11 +20,9 @@
 | qtdata | 平台化、三方体系、客户资产第一优先级 | CLI 本地单用户，Studio mock 看板 | 落后 |
 | qtadmin | 治理思想平台化 | CLI 十二领域命令，Studio 页面为空 | 错位 |
 | qtrecurit | 序列轨道与考核标准 | 邮件漏斗统计 | 落后 |
-| qtconsult | 无意图文档 | OODA 看板 | 有实现无意图 |
 
 ## 结构性缺口
 
-- **有实现无意图**：qtconsult 没有意图文档，业务方向未记录在意图库
 - **有意图无实现**：qtdata 的客户资产、邮箱沟通、发券增长三个意图没有代码承接
 
 ## 行动建议
@@ -47,4 +45,4 @@
 | `business/` | quanttide-insight-of-business-development |
 | `delib/` | quanttide-insight-of-deliberation-management |
 
-本仓库保留：业务域洞察（`qtcloud/`、`qtclass/`、`qtdata/`、`qtadmin/`、`qtrecurit/`、`qtconsult/`）与本文件（意图差距全景分析）。
+本仓库保留：业务域洞察（`qtcloud/`、`qtclass/`、`qtdata/`、`qtadmin/`、`qtrecurit/`）与本文件（意图差距全景分析）。
