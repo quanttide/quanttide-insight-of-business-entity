@@ -27,6 +27,7 @@ qtclass 洞察按四个主题组织：**定位**（课堂是什么）→ **机�
 - [recruitment-crisis-as-funnel-strategy.md](recruitment-crisis-as-funnel-strategy.md) — **招聘阻塞公告是漏斗战略的出生证明**：课堂从卖课升级为人才漏斗运营的五重结构预测
 - [collective-motive-cultivation.md](collective-motive-cultivation.md) — **集体动机的引导方向**：改利益流向不做说教；四个种子（基地信用/自治制度/教学相长/共同作品），发芽信号是"我们决定"替代"我配合"
 - [collective-intelligence-foundation.md](collective-intelligence-foundation.md) — **集体智慧的四块基石**：信号塔（分布式感知）/契约协作（无中心对齐）/议事档案（判断留痕）/环境测谎（成员质量）已具备，缺判断合成器——分歧显性化是合成器工作的证据，全票一致是空转
+- [collective-giving-artifacts.md](collective-giving-artifacts.md) — **集体给予物**：公开制度是偏差（自我指涉无受益者）；生成物=以基地名义、集体署名、交付给真实受益者的成果——第一个是课堂工作台（学员给自己造工具），校验标准"谁的生活因实训基地四个字变好了"
 - [classroom-gate-vs-recruitment-survey.md](classroom-gate-vs-recruitment-survey.md) — **课堂门槛与招聘问卷的分野**：招聘筛能力存量（问卷事前验证），课堂筛投入意愿（作业+任务+自然淘汰）——不复用问卷形式，借"标准外化"方法论
 - [self-media-as-training.md](self-media-as-training.md) — **自媒体作为训练机制**：表达训练、市场训练、职业角色训练三合一；20% 提成让影响力归因成收入
 - [intention-gap.md](intention-gap.md) — **意图实现差距**：现有 Studio 实现与自学平台定位相反，先回正再规划
