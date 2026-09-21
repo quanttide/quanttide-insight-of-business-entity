@@ -31,6 +31,18 @@
 - qtdata 已有 STATUS 差距分析，按 roadmap 推进即可
 - 各应用细节见各域文件夹的 [intention-gap](./qtdata/intention-gap.md) 文档
 
+## 到期重审队列
+
+按证伪时限排序；到期回查预测是否兑现，三种处置（证实升格/证伪归因/问题消失归档）见 AGENTS。
+
+| 证伪时限 | 洞察 |
+|----------|------|
+| 2026-12 | [demand-outpacing-capacity](qtcloud/demand-outpacing-capacity.md)、[institution-generation-path](qtclass/institution-generation-path.md) |
+| 2027-03 | [founder-judgment-as-intent](intro/founder-judgment-as-intent.md)、[security-as-metric](intro/security-as-metric.md)、[value-judgment-authority](qtclass/value-judgment-authority.md)、[willingness-as-currency](qtclass/willingness-as-currency.md)、[testing-culture](qtclass/testing-culture.md) |
+| 2027-09 | [intent-supply](intro/intent-supply.md) |
+
+存量洞察未标注证伪时限的，重审时补齐后再入队。
+
 ## 洞察分流说明
 
 本仓库部分领域洞察已分流至对应领域洞察子仓库（非 qt 开头的领域级洞察）：
