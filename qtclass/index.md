@@ -31,6 +31,7 @@ qtclass 洞察按四个主题组织：**定位**（课堂是什么）→ **机�
 - [classroom-gate-vs-recruitment-survey.md](classroom-gate-vs-recruitment-survey.md) — **课堂门槛与招聘问卷的分野**：招聘筛能力存量（问卷事前验证），课堂筛投入意愿（作业+任务+自然淘汰）——不复用问卷形式，借"标准外化"方法论
 - [self-media-as-training.md](self-media-as-training.md) — **自媒体作为训练机制**：表达训练、市场训练、职业角色训练三合一；20% 提成让影响力归因成收入
 - [intention-gap.md](intention-gap.md) — **意图实现差距**：现有 Studio 实现与自学平台定位相反，先回正再规划
+- [studio.md](studio.md) — **Studio 作为教学思路的载体**：三层各装什么——官网装学什么、Lite 装今天做什么、缺的一层装教学思路本身；第一版四对象（任务书结构化 / 分解树带判断标准 / 脚手架库 / 评审复盘）；教学动作元数据让学员看到“老师为什么这么安排”
 
 ## 历史说明
 

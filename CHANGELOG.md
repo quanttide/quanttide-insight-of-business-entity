@@ -1,1 +1,2 @@
+- 新增 qtclass/studio.md：Studio 作为教学思路的载体——三层分工、MVP 四对象（Brief/分解/脚手架/评审）、教学动作元数据；源自语境仓库移交（补 H1，正文未改），索引挂入演进主题
 - 移除 qtrecurit 洞察九篇：迁移至联盟洞察仓（quanttide-insight-of-innovation-alliance）
