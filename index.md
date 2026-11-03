@@ -39,6 +39,7 @@
 |----------|------|
 | 2026-12 | [demand-outpacing-capacity](qtcloud/demand-outpacing-capacity.md)、[institution-generation-path](qtclass/institution-generation-path.md)（第一形态）、[subcontract-replay](qtcloud/subcontract-replay.md)、[sales-side-scarcity](qtdata/sales-side-scarcity.md) |
 | 2027-03 | [founder-judgment-as-intent](intro/founder-judgment-as-intent.md)、[security-as-metric](intro/security-as-metric.md)、[value-judgment-authority](qtclass/value-judgment-authority.md)、[willingness-as-currency](qtclass/willingness-as-currency.md)、[testing-culture](qtclass/testing-culture.md)、[ai-maintainable-radius](qtcloud/ai-maintainable-radius.md)、[governance-system-identity](intro/governance-system-identity.md)、[institution-generation-path](qtclass/institution-generation-path.md)（第二形态·标准倒挂） |
+| 2027-05 | [threshold-as-the-feature](intro/threshold-as-the-feature.md)（入门任务成本） |
 | 2027-09 | [intent-supply](intro/intent-supply.md) |
 
 存量洞察未标注证伪时限的，重审时补齐后再入队。

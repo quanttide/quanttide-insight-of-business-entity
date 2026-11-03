@@ -1,2 +1,3 @@
+- 新增 intro/threshold-as-the-feature.md：门槛是体系最大的 feature——五条线一个对象（云=预制菜/课堂=教会/VIP=收敛/学员=跨门槛/咨询=推广）+ 降低门槛的失败工作流与单任务实证；点名上门实施判死缓；源群聊实录，索引挂重审队列 2027-05
 - 新增 qtclass/studio.md：Studio 作为教学思路的载体——三层分工、MVP 四对象（Brief/分解/脚手架/评审）、教学动作元数据；源自语境仓库移交（补 H1，正文未改），索引挂入演进主题
 - 移除 qtrecurit 洞察九篇：迁移至联盟洞察仓（quanttide-insight-of-innovation-alliance）
