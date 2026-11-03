@@ -1,3 +1,4 @@
+- 加深四篇原文（2026-11-02）挂入门槛坐标：business-lines-and-clouds 新增「五、门槛坐标」（预制菜给谁吃）、open-source-as-moat 新增「失败生产线」（不可伪造上下文量产）、intent-supply 新增「与门槛坐标的关系」（执行前提）、free-traffic-leverage 新增「进来只是开始」（入口 vs 水平收敛）；均互链新篇
 - 新增 intro/threshold-as-the-feature.md：门槛是体系最大的 feature——五条线一个对象（云=预制菜/课堂=教会/VIP=收敛/学员=跨门槛/咨询=推广）+ 降低门槛的失败工作流与单任务实证；点名上门实施判死缓；源群聊实录，索引挂重审队列 2027-05
 - 新增 qtclass/studio.md：Studio 作为教学思路的载体——三层分工、MVP 四对象（Brief/分解/脚手架/评审）、教学动作元数据；源自语境仓库移交（补 H1，正文未改），索引挂入演进主题
 - 移除 qtrecurit 洞察九篇：迁移至联盟洞察仓（quanttide-insight-of-innovation-alliance）
