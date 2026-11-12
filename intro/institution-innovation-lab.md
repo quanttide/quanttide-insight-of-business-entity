@@ -87,7 +87,7 @@
 ## 关联
 
 - [qtclass/industry-education-integration.md](../qtclass/industry-education-integration.md)：产教融合与两个主体——本定位的结构基础
-- history/qtclass/qtacademy-evolution.md（独立历史仓库）：六天演化叙事——本定位的实证过程
+- history/qtclass/org.md（独立历史仓库）：六天演化叙事——本定位的实证过程
 
 ## 一句话
 
